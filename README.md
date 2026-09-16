@@ -37,7 +37,7 @@ The project uses structured healthcare datasets containing information related t
 git clone https://github.com/acorn266/HealthLens-Smoking-Risk-Analytics.git
 ```
 
-2. Open `smoking health risk analysis.pbix` using **Microsoft Power BI Desktop**.
+2. Open `HealthLens.pbix` using **Microsoft Power BI Desktop**.
 3. Refresh the data sources if required.
 4. Explore the interactive dashboard.
 
